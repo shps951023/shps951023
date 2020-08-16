@@ -78,7 +78,7 @@
         </tr>
         <tr>
             <td colspan='6'>
-                <a href="https://ithelp.ithome.com.tw/articles?tab=tech">查看更多...</a>
+                <a href="https://ithelp.ithome.com.tw/users/20105988/articles?page=1">查看更多...</a>
             </td>          
         </tr>         
     </tbody>
