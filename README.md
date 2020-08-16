@@ -15,7 +15,7 @@
             <th colspan='100' ><span>【 有 話 說 】</span></th>
         </tr>          
         <tr >
-            <th colspan='100' ><a href='#'>可以 Follow 我 Github 訂閱最新文章資訊👈</a></th>
+            <th colspan='100' >可以 Follow 我 Github 訂閱最新文章資訊👈 <br>另外有問題可以點擊 <a href='https://github.com/shps951023/shps951023/issues/new'>New Issue</a> 留言給我</th>
         </tr>        
         <tr>
             <th colspan='8' >
