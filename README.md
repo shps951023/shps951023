@@ -15,7 +15,7 @@
             <th colspan='100' ><span>公告</span></th>
         </tr>          
         <tr >
-            <th colspan='100' ><a href=''>可以 Follow 我 Github 訂閱最新文章資訊👈</a></th>
+            <th colspan='100' ><a href='#'>可以 Follow 我 Github 訂閱最新文章資訊👈</a></th>
         </tr>        
         <tr>
             <th colspan='8' >
