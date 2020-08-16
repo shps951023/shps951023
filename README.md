@@ -11,6 +11,12 @@
             <th colspan='2'><a href="https://ithelp.ithome.com.tw/users/20105988/articles">Articles</a></th>
             <th colspan='2'><a href=''><a href="https://shps951023.github.io/buy_me_a_coffee.html">Buy Me A Coffee</a></th>
         </tr> 
+        <tr >
+            <th colspan='100' ><span>公告</span></th>
+        </tr>          
+        <tr >
+            <th colspan='100' ><a href=''>可以 Follow 我訂閱最新文章資訊👈</a></th>
+        </tr>        
         <tr>
             <th colspan='8' >
                 <span>Top Articles</span>
