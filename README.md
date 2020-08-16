@@ -45,7 +45,12 @@
             <td colspan='6'>
                 <a href="https://ithelp.ithome.com.tw/articles/10232705"> 2020年 Youtube 批量刪除「稍後觀看」清單</a>
             </td>         
-        </tr>          
+        </tr>  
+        <tr>
+            <td colspan='6'>
+                <a href="https://ithelp.ithome.com.tw/articles/10198344"> Windows 重大CredSSP 更新，無法遠端暫時解決方式</a>
+            </td>         
+        </tr>         
         <tr>
             <td colspan='6'>
                 <a href="https://ithelp.ithome.com.tw/articles/10230119"> 【SQLServer】使用Outer Apply + Order top 1 分析最近一次價格成本漲跌情況</a>
@@ -76,6 +81,16 @@
                 <a href="https://ithelp.ithome.com.tw/articles/10198527">【SQL分享】 統計工廠設備每天運作狀況時間</a>
             </td>          
         </tr>
+        <tr>
+            <td colspan='6'>
+                <a href="https://ithelp.ithome.com.tw/articles/10211943"> IT鐵人賽小工具 : Ctrl + V 自動上傳圖片功能</a>
+            </td>          
+        </tr>     
+        <tr>
+            <td colspan='6'>
+                <a href="https://ithelp.ithome.com.tw/articles/10210675"> 【C#】小知識 #7: 使用 nameof 方便維護專案</a>
+            </td>          
+        </tr>             
         <tr>
             <td colspan='6'>
                 <a href="https://ithelp.ithome.com.tw/users/20105988/articles?page=1">查看更多...</a>
