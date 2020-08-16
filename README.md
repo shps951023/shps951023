@@ -1,6 +1,4 @@
-
-[test.index](test.index)
- <details>
+<details>
   <summary>Buy Me A Coffee , please click button 🔽 </summary>
 
 [PayPal.Me](https://www.paypal.com/paypalme/WeiHan170610)
