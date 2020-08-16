@@ -12,14 +12,14 @@
             <th colspan='2'><a href=''><a href="https://shps951023.github.io/buy_me_a_coffee.html">贊助我</a></th>
         </tr> 
         <tr >
-            <th colspan='100' ><span>【 有 話 說 】</span></th>
+            <th colspan='100' ><span>公告</span></th>
         </tr>          
         <tr >
             <th colspan='100' ><a href='#'>可以 Follow 我 Github 訂閱最新文章資訊👈</a></th>
         </tr>        
         <tr>
             <th colspan='8' >
-                <span>【 置 頂 文 章 】</span>
+                <span>置頂文章</span>
             </th>
         </tr> 
         <tr>
@@ -34,7 +34,7 @@
         </tr>         
         <tr>
             <th colspan='100' >
-                <span>【 最 新 文 章 】</span>
+                <span>最新文章</span>
             </th>
         </tr> 
         <tr>
