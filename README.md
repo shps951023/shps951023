@@ -7,9 +7,9 @@
     </thead>
     <tbody>
         <tr>
-            <th colspan='2'><a href="https://github.com/shps951023">Home</a></th>
-            <th colspan='2'><a href="https://ithelp.ithome.com.tw/users/20105988/articles">Articles</a></th>
-            <th colspan='2'><a href=''><a href="https://shps951023.github.io/buy_me_a_coffee.html">Buy Me A Coffee</a></th>
+            <th colspan='2'><a href="https://github.com/shps951023">首頁</a></th>
+            <th colspan='2'><a href="https://ithelp.ithome.com.tw/users/20105988/articles">文章</a></th>
+            <th colspan='2'><a href=''><a href="https://shps951023.github.io/buy_me_a_coffee.html">贊助我</a></th>
         </tr> 
         <tr >
             <th colspan='100' ><span>公告</span></th>
@@ -19,7 +19,7 @@
         </tr>        
         <tr>
             <th colspan='8' >
-                <span>Top Articles</span>
+                <span>置頂文章</span>
             </th>
         </tr> 
         <tr>
@@ -34,7 +34,7 @@
         </tr>         
         <tr>
             <th colspan='100' >
-                <span>New Articles</span>
+                <span>最新文章</span>
             </th>
         </tr> 
         <tr>
