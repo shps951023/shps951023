@@ -1,3 +1,4 @@
+
 <table>
     <tr>
         <th rowspan=1 colspan=2>
@@ -8,7 +9,7 @@
         <th rowspan=1 colspan=12>
             <a href="https://github.com/shps951023">Home Page</a> | <a
                 href="https://ithelp.ithome.com.tw/users/20105988/articles">Posts</a> | <a
-                href="https://github.com/shps951023/shps951023/blob/master/buy_me_a_coffee.md">Buy Me A Coffee</a>
+                href="https://github.com/shps951023/shps951023/blob/master/buy_me_a_coffee.md">Buy Me A Coffee</a> | <img src="https://komarev.com/ghpvc/?username=shps951023" />
         </th>
     </tr>
     <tr>
@@ -154,7 +155,7 @@
     </tr>
     <tr>
         <th rowspan=1 colspan=2>
-© 2019 - 2020<a href="https://github.com/shps951023" target="_blank" rel="noopener"> Wei</a>
+© 2020 - 2020<a href="https://github.com/shps951023" target="_blank" rel="noopener"> Wei</a>
         </th>
     </tr>    
 </table>
