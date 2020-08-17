@@ -110,9 +110,9 @@
             <h4>【 Top Posts 】 </h4>
             <ul>
                 <li><a
-                        href="https://github.com/shps951023/Trace-Dapper.NET-Source-Code/blob/master/zh_tw.md">深入Dapper.NET源碼</a>
+                        href="https://github.com/shps951023/Trace-Dapper.NET-Source-Code/blob/master/zh_tw.md">Trace Dapper.NET source code</a>
                     <a href="https://github.com/shps951023/Trace-Dapper.NET-Source-Code/blob/master/zh_tw.md"></a></li>
-                <li><a href="https://ithelp.ithome.com.tw/users/20105988/ironman/1622">三十天.NET❤️Azure漸進式開發專案</a></li>
+                <li><a href="https://ithelp.ithome.com.tw/users/20105988/ironman/1622">30 days .NET❤️Azure progressive development projects</a></li>
             </ul>
         </td>
     </tr>
@@ -152,4 +152,9 @@
             Or click <a href="https://github.com/shps951023/shps951023/issues/new">New Issue</a> to message for me.
         </th>
     </tr>
+    <tr>
+        <th rowspan=1 colspan=2>
+© 2019 - 2020<a href="https://github.com/shps951023" target="_blank" rel="noopener"> Wei</a>
+        </th>
+    </tr>    
 </table>
