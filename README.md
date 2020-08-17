@@ -67,16 +67,6 @@
                 </li>
                 <li>
                     <details>
-                        <summary>Javascript</summary>
-                        <ul>
-                            <li>
-                                <a href="https://ithelp.ithome.com.tw/articles/10198638">【MySQL】 全資料庫表格搜尋符合字串的欄位</a>
-                            </li>
-                        </ul>
-                    </details>
-                </li>
-                <li>
-                    <details>
                         <summary>IDE</summary>
                         <ul>
                             <li>
