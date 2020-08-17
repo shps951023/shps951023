@@ -8,7 +8,7 @@
         <th rowspan=1 colspan=12>
             <a href="https://github.com/shps951023">首 頁</a> | <a
                 href="https://ithelp.ithome.com.tw/users/20105988/articles">文 章</a> | <a
-                href="https://shps951023.github.io/buy_me_a_coffee.html">贊 助 我</a>
+                href="https://github.com/shps951023/shps951023/blob/master/buy_me_a_coffee.md">贊 助 我</a>
         </th>
     </tr>
     <tr>
