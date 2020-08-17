@@ -143,7 +143,7 @@
                     href="https://ithelp.ithome.com.tw/articles/10211943">IT鐵人賽小工具 : Ctrl + V 自動上傳圖片功能</a></li>
                 <li><a href="https://ithelp.ithome.com.tw/articles/10210675">【C#】小知識 #7: 使用 nameof 方便維護專案</a></li>
             </ul>
-            <a href="https://ithelp.ithome.com.tw/users/20105988/articles?page=1">查看更多...</a>
+            <a href="https://github.com/shps951023/shps951023/tree/master/Posts">More Posts...</a>
         </td>
     </tr>
     <tr>
