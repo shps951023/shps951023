@@ -157,7 +157,7 @@
     </tr>
     <tr>
         <th rowspan=1 colspan=2>
-            💭 Hi,there <br>
+            💭 Hi there <br>
             可以 Follow 我 Github 訂閱最新文章資訊 👈 <br>
             或點擊 <a href="https://github.com/shps951023/shps951023/issues/new">New Issue</a> 留言給我
         </th>
