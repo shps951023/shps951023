@@ -6,14 +6,14 @@
     </tr>
     <tr>
         <th rowspan=1 colspan=12>
-            <a href="https://github.com/shps951023">首 頁</a> | <a
-                href="https://ithelp.ithome.com.tw/users/20105988/articles">文 章</a> | <a
-                href="https://github.com/shps951023/shps951023/blob/master/buy_me_a_coffee.md">贊 助 我</a>
+            <a href="https://github.com/shps951023">Home Page</a> | <a
+                href="https://ithelp.ithome.com.tw/users/20105988/articles">Posts</a> | <a
+                href="https://github.com/shps951023/shps951023/blob/master/buy_me_a_coffee.md">Buy Me A Coffee</a>
         </th>
     </tr>
     <tr>
         <td rowspan=3 style="width: 1000px;">
-            <h4>【 目 錄 】</h4>
+            <h4>【 Categories 】</h4>
             <ul>
                 <li>
                     <details>
@@ -24,7 +24,7 @@
                                     省略count判斷資料有無,直接查詢1 or Not返回boolean結果(select top 1 1)</a>
                             </li>
                             <li>
-                                <a href="https://ithelp.ithome.com.tw/articles/10214298">【C#】DotNetZip-Memory
+                                <a href="https://github.com/shps951023/shps951023/blob/master/Posts/Csharp_DotNetZip_Memory_FileResult.md">【C#】DotNetZip-Memory
                                     FileResult</a>
                             </li>
                             <li>
@@ -78,7 +78,7 @@
                 </li>
                 <li>
                     <details>
-                        <summary>自製小工具</summary>
+                        <summary>Code For Fun</summary>
                         <ul>
                             <li>
                                 <a href="https://ithelp.ithome.com.tw/articles/10211943">IT鐵人賽小工具 : Ctrl + V
@@ -94,7 +94,7 @@
                 </li>
                 <li>
                     <details>
-                        <summary>維運</summary>
+                        <summary>Others</summary>
                         <ul>
                             <li>
                                 <a href="https://ithelp.ithome.com.tw/articles/10198344">Windows 重大CredSSP
@@ -107,7 +107,7 @@
         </td>
     <tr>
         <td>
-            <h4>【 置 頂 文 章 】 </h4>
+            <h4>【 Top Posts 】 </h4>
             <ul>
                 <li><a
                         href="https://github.com/shps951023/Trace-Dapper.NET-Source-Code/blob/master/zh_tw.md">深入Dapper.NET源碼</a>
@@ -118,9 +118,9 @@
     </tr>
     <tr>
         <td>
-            <h4>【 最 新 文 章 】 </h4>
+            <h4>【 New Posts 】 </h4>
             <ul>
-                <li><a href="https://ithelp.ithome.com.tw/articles/10214298">【C#】DotNetZip-Memory FileResult</a> </li>
+                <li><a href="https://github.com/shps951023/shps951023/blob/master/Posts/Csharp_DotNetZip_Memory_FileResult.md">【C#】DotNetZip-Memory FileResult</a> </li>
                 <li><a href="https://ithelp.ithome.com.tw/articles/10232380">如何在 vscode/vs 中運行asp.net core api
                         專案,不要建立新的瀏覽器頁面</a> </li>
                 <li><a href="https://ithelp.ithome.com.tw/articles/10232705">2020年 Youtube
@@ -148,8 +148,8 @@
     <tr>
         <th rowspan=1 colspan=2>
             💭 Hi there <br>
-            可以 Follow 我 Github 訂閱最新文章資訊 👈 <br>
-            或點擊 <a href="https://github.com/shps951023/shps951023/issues/new">New Issue</a> 留言給我
+            Follow my github to get first news 👈 <br>
+            Or click <a href="https://github.com/shps951023/shps951023/issues/new">New Issue</a> to message for me.
         </th>
     </tr>
 </table>
