@@ -1,4 +1,4 @@
-V![https://komarev.com/ghpvc/?username=shps951023](https://komarev.com/ghpvc/?username=shps951023)
+View Count : ![https://komarev.com/ghpvc/?username=shps951023](https://komarev.com/ghpvc/?username=shps951023)
 
 <details>
   <summary>Buy Me A Coffee ☕ , Click 🔽 </summary>
