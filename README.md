@@ -1,10 +1,15 @@
-<summary>
-  View Count : ![https://komarev.com/ghpvc/?username=shps951023](https://komarev.com/ghpvc/?username=shps951023)
-</summary>
+- **Chinese Youtube:** [IT \- Wei - YouTube](https://www.youtube.com/c/linweihan/playlists)  
+- **English Youtube:** [IT \- Wei \- YouTube](https://www.youtube.com/channel/UCxV12yTnDqeYIWeDd48xacw)  
+- **StackOverflow:** [Wei](https://goo.gl/72VFyg)  
+[![](https://stackoverflow.com/users/flair/9131476.png)](https://goo.gl/72VFyg)  
+- **GitHub:** [Wei](https://github.com/shps951023)  
+- **DEV** [Wei \- DEV](https://dev.to/shps951023)  
+- **CodeProject:** [Wei](https://www.codeproject.com/Articles/ITWeiHan#Article)  
+- **博客园:** [暐翰 \- 博客园](https://www.cnblogs.com/ITWeiHan/p/11614704.html) 
+
+View Count : ![https://komarev.com/ghpvc/?username=shps951023](https://komarev.com/ghpvc/?username=shps951023)
 
 
-
-<!--
 <details>
   <summary>Buy Me A Coffee ☕ , Click 🔽 </summary>
 
@@ -19,4 +24,3 @@
 支付宝  
 ![image](https://user-images.githubusercontent.com/12729184/62439654-3cc84c00-b77f-11e9-8344-c80cc3c026f3.png)
 </details>
--->
