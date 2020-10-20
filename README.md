@@ -1,11 +1,11 @@
-- **Chinese Youtube:** [IT \- Wei - YouTube](https://www.youtube.com/c/linweihan/playlists)  
-- **English Youtube:** [IT \- Wei \- YouTube](https://www.youtube.com/channel/UCxV12yTnDqeYIWeDd48xacw)  
 - **StackOverflow:** [Wei](https://goo.gl/72VFyg)  
 [![](https://stackoverflow.com/users/flair/9131476.png)](https://goo.gl/72VFyg)  
+- **ITHelp(IT邦幫忙)** [暐翰](https://ithelp.ithome.com.tw/users/20105988)
+- **Chinese Youtube:** [IT \- Wei - YouTube](https://www.youtube.com/c/linweihan/playlists)  
+- **English Youtube:** [IT \- Wei \- YouTube](https://www.youtube.com/channel/UCxV12yTnDqeYIWeDd48xacw)  
+- **CNBlog(博客园):** [暐翰 \- 博客园](https://www.cnblogs.com/ITWeiHan/p/11614704.html) 
 - **DEV** [Wei \- DEV](https://dev.to/shps951023)  
 - **CodeProject:** [Wei](https://www.codeproject.com/Articles/ITWeiHan#Article)  
-- **CNBlog(博客园):** [暐翰 \- 博客园](https://www.cnblogs.com/ITWeiHan/p/11614704.html) 
-- **ITHelp(IT邦幫忙)** [暐翰](https://ithelp.ithome.com.tw/users/20105988)
 
 View Count : ![https://komarev.com/ghpvc/?username=shps951023](https://komarev.com/ghpvc/?username=shps951023)
 
