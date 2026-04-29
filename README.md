@@ -1,4 +1,5 @@
-We're programmers who love the open source community, and believe that sharing what we create can make the world a better place.
+Software making world better
+
 <!--
 **shps951023/shps951023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
