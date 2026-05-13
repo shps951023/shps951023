@@ -1,4 +1,8 @@
-Software making world better
+My Online Course 
+Udemy: https://www.udemy.com/user/linweihan/
+Chinese 51 CTO: https://edu.51cto.com/lecturer/13997209.html
+
+Donate & Support my projects: https://github.com/sponsors/shps951023
 
 <!--
 **shps951023/shps951023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
