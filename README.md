@@ -1,6 +1,6 @@
 Open source community making world better 🐱‍🏍
 - My Online Course: [Udemy](https://www.udemy.com/user/linweihan/) , [China 51 CTO](https://edu.51cto.com/lecturer/13997209.html)
-- Support my projects by [Donate Page](https://miniexcel.github.io/) or [GitHub Sponsor](https://github.com/sponsors/shps951023)
+- Support my projects by [Donate Page](https://mini-software.github.io/) or [GitHub Sponsor](https://github.com/sponsors/shps951023)
 
 
 <!--
