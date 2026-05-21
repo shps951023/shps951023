@@ -1,4 +1,4 @@
-Open source community making world better 🐱‍🏍
+Open source community making world better 
 
 Support my projects by [GitHub Sponsor](https://github.com/sponsors/shps951023) or [Donate Page](https://mini-software.github.io/) or my online Course: [Udemy](https://www.udemy.com/user/linweihan/) , [51 CTO](https://edu.51cto.com/lecturer/13997209.html)
  
